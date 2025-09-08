@@ -15,3 +15,15 @@ Este proyecto es una API REST construida con NestJS, Prisma ORM y Supabase (Post
    ```bash
    git clone https://github.com/DevCesFlutter/ApiRestNest_Priseba_Tecnica.git
    cd ApiRestNest_Priseba_Tecnica
+Endpoints de Productos
+GET /products - Obtener todos los productos
+
+GET /products/:id - Obtener un producto por ID
+POST /products - Crear un nuevo producto
+
+PATCH /products/:id - Actualizar un producto
+
+DELETE /products/:id - Eliminar un producto
+
+👨‍💻 Autor
+Desarrollado por DevCesFlutter
